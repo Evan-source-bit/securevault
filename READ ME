@@ -1,0 +1,6 @@
+This program has 3 main parts.
+The HTML file:
+*Uses a an upload element that takes files and uploads it to the "uploads folder".
+The Python file:
+*Takes the uploaded file and encrypts it using Fernet.
+
